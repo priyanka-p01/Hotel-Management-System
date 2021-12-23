@@ -5,7 +5,7 @@ This project was created by me and my team as a mini - poject for our Introducto
 
  # Installation Procedure:
  
- - Clone the repository into yours: 'git clone'
+ - Clone the repository into yours: 'git clone https://https://github.com/priyanka-p01/Hotel-Management-System'
  - Install the Tkinter Library for Graphic User Interface / GUI: 'pip install tk'
  - Install the text to speech converter Python Library: 'pip install pyttsx3'
  
